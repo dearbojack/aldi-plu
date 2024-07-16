@@ -1,0 +1,210 @@
+{
+  "fruit_veg": [
+    {
+      "PLU_code": "1",
+      "image": "broccoli_organic.png",
+      "english_name": "Broccoli Organic",
+      "chinese_name": "有机西兰花"
+    },
+    {
+      "PLU_code": "2",
+      "image": "avocado.png",
+      "english_name": "Avocado",
+      "chinese_name": "牛油果"
+    },
+    {
+      "PLU_code": "4",
+      "image": "grapefruit.png",
+      "english_name": "Grapefruit",
+      "chinese_name": "葡萄柚"
+    },
+    {
+      "PLU_code": "6",
+      "image": "pepper_red_loose.png",
+      "english_name": "Pepper Red Loose",
+      "chinese_name": "红甜椒散装"
+    },
+    {
+      "PLU_code": "7",
+      "image": "swede.png",
+      "english_name": "Swede",
+      "chinese_name": "瑞典芜菁"
+    },
+    {
+      "PLU_code": "8",
+      "image": "honeydew_melon.png",
+      "english_name": "Honeydew Melon",
+      "chinese_name": "蜜瓜"
+    },
+    {
+      "PLU_code": "10",
+      "image": "cauliflower.png",
+      "english_name": "Cauliflower",
+      "chinese_name": "黄花菜"
+    },
+    {
+      "PLU_code": "11",
+      "image": "cabbage_savoy.png",
+      "english_name": "Cabbage Savoy",
+      "chinese_name": "皱叶甘蓝"
+    },
+    {
+      "PLU_code": "13",
+      "image": "coconut.png",
+      "english_name": "Coconut",
+      "chinese_name": "椰子"
+    },
+    {
+      "PLU_code": "16",
+      "image": "galia_melon.png",
+      "english_name": "Galia Melon",
+      "chinese_name": "伽利亚蜜瓜"
+    },
+    {
+      "PLU_code": "17",
+      "image": "loose_banana.png",
+      "english_name": "Loose Banana",
+      "chinese_name": "散装香蕉"
+    },
+    {
+      "PLU_code": "18",
+      "image": "yellow_pepper.png",
+      "english_name": "Yellow Pepper",
+      "chinese_name": "黄甜椒"
+    },
+    {
+      "PLU_code": "19",
+      "image": "pineapple.png",
+      "english_name": "Pineapple",
+      "chinese_name": "菠萝"
+    },
+    {
+      "PLU_code": "21",
+      "image": "aubergine.png",
+      "english_name": "Aubergine",
+      "chinese_name": "茄子"
+    },
+    {
+      "PLU_code": "22",
+      "image": "baking_potato.png",
+      "english_name": "Baking Potato",
+      "chinese_name": "烤土豆"
+    },
+    {
+      "PLU_code": "23",
+      "image": "cucumber.png",
+      "english_name": "Cucumber",
+      "chinese_name": "黄瓜"
+    },
+    {
+      "PLU_code": "24",
+      "image": "spring_onion.png",
+      "english_name": "Spring Onion",
+      "chinese_name": "小葱"
+    },
+    {
+      "PLU_code": "25",
+      "image": "beef_tomato.png",
+      "english_name": "Beef Tomato",
+      "chinese_name": "牛番茄"
+    },
+    {
+      "PLU_code": "26",
+      "image": "pomegranate_loose.png",
+      "english_name": "Pomegranate Loose",
+      "chinese_name": "散装石榴"
+    },
+    {
+      "PLU_code": "27",
+      "image": "white_red_cabbage.png",
+      "english_name": "White/Red Cabbage",
+      "chinese_name": "白/红卷心菜"
+    },
+    {
+      "PLU_code": "29",
+      "image": "brussel_sprout_stalk.png",
+      "english_name": "Brussel Sprout Stalk",
+      "chinese_name": "球芽甘蓝茎"
+    },
+    {
+      "PLU_code": "30",
+      "image": "watermelon.png",
+      "english_name": "Watermelon",
+      "chinese_name": "西瓜"
+    },
+    {
+      "PLU_code": "33",
+      "image": "sweet_potato_loose.png",
+      "english_name": "Sweet Potato Loose",
+      "chinese_name": "散装红薯"
+    },
+    {
+      "PLU_code": "34",
+      "image": "apple_bramley.png",
+      "english_name": "Apple Bramley",
+      "chinese_name": "布拉姆利苹果"
+    },
+    {
+      "PLU_code": "37",
+      "image": "avocado_xl.png",
+      "english_name": "Avocado XL",
+      "chinese_name": "特大牛油果"
+    },
+    {
+      "PLU_code": "42",
+      "image": "cantaloupe_melon.png",
+      "english_name": "Cantaloupe Melon",
+      "chinese_name": "哈密瓜"
+    },
+    {
+      "PLU_code": "43",
+      "image": "mango.png",
+      "english_name": "Mango",
+      "chinese_name": "芒果"
+    },
+    {
+      "PLU_code": "44",
+      "image": "celeriac.png",
+      "english_name": "Celeriac",
+      "chinese_name": "芹菜根"
+    },
+    {
+      "PLU_code": "45",
+      "image": "butternut_squash.png",
+      "english_name": "Butternut Squash",
+      "chinese_name": "冬南瓜"
+    },
+    {
+      "PLU_code": "51",
+      "image": "corn_loose.png",
+      "english_name": "Corn Loose",
+      "chinese_name": "散装玉米"
+    },
+    {
+      "PLU_code": "52",
+      "image": "red_spring_onion.png",
+      "english_name": "Red Spring Onion",
+      "chinese_name": "红小葱"
+    }
+  ],
+  "bag": [
+    {
+        "PLU_code": "5",
+        "image": "green.png",
+        "english_name": "green bag",
+        "chinese_name": "绿色降解袋"
+    },
+    {
+        "PLU_code": "9",
+        "image": "plastic.png",
+        "english_name": "plastic bag",
+        "chinese_name": "普通塑料袋"
+    },
+    {
+        "PLU_code": "38",
+        "image": "reusable.png",
+        "english_name": "eco resuable bag",
+        "chinese_name": "可重复利用袋"
+    }
+  ]
+}
